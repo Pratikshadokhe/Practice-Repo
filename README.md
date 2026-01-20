@@ -1,2 +1,2 @@
-# Practice-Repo
+# Learn about git and github
 Practicing Github
